@@ -244,6 +244,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools that help marketers write better content and run better campaigns.
 
+- [AdMapix](https://github.com/fly0pants/admapix) - AI-powered ad creative intelligence. Search competitor ads across 200+ countries, generate deep research reports, track app rankings.
 - <img src="https://cdn.simpleicons.org/analytics/4285F4" height="14"/> [Agent Mindshare](https://agentmindshare.com) - Track and monitor AI agent mindshare across platforms - measure brand visibility in AI conversations.
 - <img src="https://openstrategypartners.com/fileadmin/Bilder/logo/OSP_logo_colors_green1.png" height="14"/> [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools)<sup><sup>⭐</sup></sup> - a standardized editing code system, writing guidelines, web metadata generator, and product communication framework.
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
